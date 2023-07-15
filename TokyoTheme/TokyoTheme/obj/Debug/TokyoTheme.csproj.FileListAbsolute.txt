@@ -1,0 +1,13 @@
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\bin\Debug\TokyoTheme.vsix
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\bin\Debug\extension.vsixmanifest
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\TokyoTheme.csproj.AssemblyReference.cache
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\_EmptyResource.resources
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\TokyoTheme.csproj.GenerateResource.cache
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\TokyoTheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\TokyoTheme.csproj.CoreCompileInputs.cache
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\TokyoTheme.dll
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\TokyoTheme.pdb
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\extension.vsixmanifest
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\files.json
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\obj\Debug\createTemplateManifests.cache
+C:\Users\Jasiel\source\repos\TokyoTheme\TokyoTheme\bin\Debug\Tokyo.pkgdef
